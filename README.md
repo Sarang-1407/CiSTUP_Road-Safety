@@ -1,7 +1,7 @@
 
 # 🚦 CiSTUP Road Safety Project Repository 🛣️
 
-Welcome to the official GitHub repository for the *CiSTUP* Road Safety Project, where we collaborate to enhance road safety through data-driven analysis, innovative solutions, and policy recommendations.  This repository is a collaborative effort by interns working under Dr. Vijay Kovvali at *Indian Institute of Science (IISc), Bangalore*.
+Welcome to the official GitHub repository for the *CiSTUP* Road Safety Project, where we collaborate to enhance road safety through data-driven, behavioral and geo analysis resulting in innovative solutions, and policy recommendations.  This repository is a collaborative effort by interns working under Dr. Vijay Kovvali at *Indian Institute of Science (IISc), Bangalore*.
 
 ## 🎯 Our Mission:
 Our mission is to leverage data science, psychological insights, and geoinformatics to enhance road safety, particularly in low-income countries. By combining our expertise, we aim to analyze road accident data, understand driving behaviors, and identify accident-prone areas/blackspots to develop effective interventions and policy recommendations.
