@@ -39,8 +39,12 @@ As an intern-driven project, we welcome contributions from fellow interns, resea
   - Working on geospatial modeling, mapping accidents, violations, and identifying blackspots using ArcGIS Pro.
 
 ## 🌐 Connect with Us:
-Join our Discord server [link] to interact with other interns, ask questions, and collaborate in real-time.
+For inquiries about joining our team or collaborating with us, please contact Dr. Vijay Kovvali at [vkovvali@iisc.ac.in](mailto:vkovvali@iisc.ac.in). You can also explore available positions at CiSTUP and apply through the following links:
+- [Open Positions](https://cistup.iisc.ac.in/CiSTUP_Website/pages/careers/open-positions.php)
+- [Internship Opportunities](https://cistup.iisc.ac.in/CiSTUP_Website/pages/careers/internship.php)
 
 Let's work together to create safer roads and save lives!
+
+Created and maintained by [Sarang](https://github.com/Sarang-1407).
 
 #road-safety #research #internship #cistup #iisc #bengaluru #github
