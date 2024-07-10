@@ -1,0 +1,11 @@
+pip install git+https://github.com/datakaveri/iudx-python-sdk
+iudx --entity 5b778007-797e-4313-b34c-c7c4812365bb --clientid=434e8bf5-6114-43ea-bc56-dfbc9fcb6d54 --secret=3e4b53e3d1fc5c615f81f426579b8d8fb0fd2df2 --start 2024-04-02T08:00:00+05:30 --end 2024-04-02T11:00:00+05:30 --entity-type=resource --role=consumer --download=traffic_violations --type=csv
+
+
+
+
+iudx --entity 5b778007-797e-4313-b34c-c7c4812365bb --clientid=434e8bf5-6114-43ea-bc56-dfbc9fcb6d54 --secret=3e4b53e3d1fc5c615f81f426579b8d8fb0fd2df2 --start 2023-07-01T07:30:00+05:30 --end 2023-09-30T23:59:00+05:30 --entity-type=resource --role=consumer --download=traffic_violations --type=csv
+
+
+
+iudx --entity 5b778007-797e-4313-b34c-c7c4812365bb --clientid=434e8bf5-6114-43ea-bc56-dfbc9fcb6d54 --secret=3e4b53e3d1fc5c615f81f426579b8d8fb0fd2df2 --start 2024-02-20T18:30:00+05:30 --end 2024-06-20T18:30:00+05:30 --entity-type=resource --role=consumer --download=traffic_violations --type=json
