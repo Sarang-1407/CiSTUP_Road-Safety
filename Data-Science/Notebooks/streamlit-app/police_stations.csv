@@ -1,0 +1,1077 @@
+district_id,district_name,station_id,station_name
+1,Bagalkot,1, 
+1,Bagalkot,1245,Amengad PS
+1,Bagalkot,1246,Badami PS
+1,Bagalkot,2220,Bagalkot CEN Crime PS
+1,Bagalkot,1238,Bagalkot Rural PS
+1,Bagalkot,1236,Bagalkot Town PS
+1,Bagalkot,1237,Bagalkot Traffic PS
+1,Bagalkot,2217,Bagalkot Women PS
+1,Bagalkot,1259,Banahatti PS
+1,Bagalkot,1263,Bilagi PS
+1,Bagalkot,1249,Guledagudda PS
+1,Bagalkot,1241,Hungunda PS
+1,Bagalkot,1242,Ilakal PS
+1,Bagalkot,2189,Ilakal Rural PS
+1,Bagalkot,1251,Jamakhandi Rural PS
+1,Bagalkot,1250,Jamakhandi Town PS
+1,Bagalkot,1240,Kaladagi PS
+1,Bagalkot,1247,Kerur PS
+1,Bagalkot,1256,Lokapur PS
+1,Bagalkot,1258,Mahalingapur PS
+1,Bagalkot,1255,Mudhol PS
+1,Bagalkot,1888,Navanagara PS
+1,Bagalkot,1254,Savalgi PS
+1,Bagalkot,1260,Teradal PS
+2,Ballari,1920,APMC Yard PS
+2,Ballari,2221,Ballari CEN Crime PS
+2,Ballari,2205,Ballari Women PS
+2,Ballari,338,Bellary Rural PS
+2,Ballari,337,Bellary Traffic PS
+2,Ballari,333,Brucepet PS
+2,Ballari,334,Cowlbazar PS
+2,Ballari,362,Gadiganur PS
+2,Ballari,335,Gandhinagar PS
+2,Ballari,348,Hatcholli PS
+2,Ballari,357,Kampli PS
+2,Ballari,1893,Kuduthini PS
+2,Ballari,343,Kurugod PS
+2,Ballari,342,Moka PS
+2,Ballari,339,P.D. Halli PS
+2,Ballari,366,Sandur PS
+2,Ballari,346,Sirigeri PS
+2,Ballari,347,Siruguppa PS
+2,Ballari,344,Tekkalkota PS
+2,Ballari,364,Thoranagal PS
+3,Belagavi City,298,APMC Yard PS
+3,Belagavi City,1456,Bagewadi PS
+3,Belagavi City,2240,Belagavi City CEN Crime PS
+3,Belagavi City,310,Belagavi Rural PS
+3,Belagavi City,306,Belgaum North Traffic PS
+3,Belagavi City,305,Belgaum South Traffic PS
+3,Belagavi City,303,Camp PS
+3,Belagavi City,311,Kakati PS
+3,Belagavi City,301,Khadebazar PS
+3,Belagavi City,297,Malamaruthi PS
+3,Belagavi City,1457,Marihal PS
+3,Belagavi City,292,Market PS
+3,Belagavi City,296,Shahapura PS
+3,Belagavi City,302,Tilakwadi PS
+3,Belagavi City,1455,Udyambag PS
+3,Belagavi City,1453,Women PS
+4,Belagavi Dist,1487,Agali PS
+4,Belagavi Dist,324,Ankalgi PS
+4,Belagavi Dist,2011,Ankali PS
+4,Belagavi Dist,1485,Athani PS
+4,Belagavi Dist,1464,Bailahongal PS
+4,Belagavi Dist,1482,Basaweshwar Chowk PS
+4,Belagavi Dist,2223,Belagavi CEN Crime PS
+4,Belagavi Dist,2243,Belagavi Women PS
+4,Belagavi Dist,1478,Chikkodi PS
+4,Belagavi Dist,2133,Chikkodi Town Traffic PS
+4,Belagavi Dist,1467,Doddawad PS
+4,Belagavi Dist,1460,Ghataprabha PS
+4,Belagavi Dist,319,Gokak Rural PS
+4,Belagavi Dist,323,Gokak Town PS
+4,Belagavi Dist,2126,Harugeri PS
+4,Belagavi Dist,1461,Hukkeri PS
+4,Belagavi Dist,1486,Kagwad PS
+4,Belagavi Dist,1473,Katkol PS
+4,Belagavi Dist,2204,Khadakalat PS
+4,Belagavi Dist,314,Khanapur PS
+4,Belagavi Dist,1466,Kittur PS
+4,Belagavi Dist,1484,Kudachi PS
+4,Belagavi Dist,1459,Kulgod PS
+4,Belagavi Dist,1458,Mudalgi PS
+4,Belagavi Dist,1470,Murgod PS
+4,Belagavi Dist,315,Nandagad PS
+4,Belagavi Dist,1465,Nesargi PS
+4,Belagavi Dist,1481,Nippani Rural PS
+4,Belagavi Dist,1480,Nippani Town PS
+4,Belagavi Dist,1483,Raibag PS
+4,Belagavi Dist,1472,Ramadurga PS
+4,Belagavi Dist,1479,Sadalaga PS
+4,Belagavi Dist,1462,Sankeshwar PS
+4,Belagavi Dist,1468,Soundatti PS
+4,Belagavi Dist,1463,Yamakanmardi PS
+5,Bengaluru City,1382,Adugodi PS
+5,Bengaluru City,1762,Adugodi Traffic PS
+5,Bengaluru City,1770,Airport Traffic PS
+5,Bengaluru City,1818,Amruthahally PS
+5,Bengaluru City,2188,Annapoorneshwari Nagar PS
+5,Bengaluru City,1389,Ashoknagar PS
+5,Bengaluru City,1761,Ashoknagar Traffic PS
+5,Bengaluru City,2195,Bagalagunte PS
+5,Bengaluru City,1822,Bagalur PS
+5,Bengaluru City,1776,Banasawadi Traffic PS
+5,Bengaluru City,1375,Banashankari PS
+5,Bengaluru City,1783,Banashankari Traffic PS
+5,Bengaluru City,1406,Banaswadi PS
+5,Bengaluru City,2193,Bandepalya PS
+5,Bengaluru City,1376,Basavanagudi PS
+5,Bengaluru City,1784,Basavanagudi Traffic PS
+5,Bengaluru City,1377,Basavanagudi Women PS
+5,Bengaluru City,1426,Basaveshwara Nagar PS
+5,Bengaluru City,2194,Beguru PS
+5,Bengaluru City,2198,Bellanduru PS
+5,Bengaluru City,1401,Bharathi Nagar PS
+5,Bengaluru City,1820,BIAL PS
+5,Bengaluru City,1899,BIAL Traffic PS
+5,Bengaluru City,2141,Bommanahalli PS
+5,Bengaluru City,2123,Byadarahalli PS
+5,Bengaluru City,1411,Byappanahalli PS
+5,Bengaluru City,1418,Byatarayanapura PS
+5,Bengaluru City,1787,Byatrarayanapura Traffic PS
+5,Bengaluru City,2060,CCB Bengaluru City Police
+5,Bengaluru City,2146,Central CEN Crime PS
+5,Bengaluru City,2349,Central Women PS
+5,Bengaluru City,1364,Chamarajpet PS
+5,Bengaluru City,1788,Chamarajpet Traffic PS
+5,Bengaluru City,1420,Chandra Layout PS
+5,Bengaluru City,1797,Channammanakere Achu Kattu PS
+5,Bengaluru City,2342,Chikkabanavara Traffic
+5,Bengaluru City,268,Chikkajala PS
+5,Bengaluru City,1898,Chikkajala Traffic PS
+5,Bengaluru City,1432,City Market PS
+5,Bengaluru City,1789,City Market Traffic PS
+5,Bengaluru City,1400,Commercial Street PS
+5,Bengaluru City,1417,Cottonpet PS
+5,Bengaluru City,1398,Cubbon Park PS
+5,Bengaluru City,1766,Cubbonpark Traffic PS
+5,Bengaluru City,2200,Cyber Crime Police Station
+5,Bengaluru City,266,Devanahalli PS
+5,Bengaluru City,1402,Devarajeevanahalli PS
+5,Bengaluru City,2147,East CEN Crime PS
+5,Bengaluru City,1387,East Women PS
+5,Bengaluru City,1387,East Zone Women PS
+5,Bengaluru City,1799,Electronic City PS
+5,Bengaluru City,1896,Electronic City Traffic PS
+5,Bengaluru City,1348,Gangammana Gudi PS
+5,Bengaluru City,1368,Girinagar PS
+5,Bengaluru City,2268,Govindapura PS
+5,Bengaluru City,2303,Govindaraja Nagar PS
+5,Bengaluru City,1416,H.A.L. PS
+5,Bengaluru City,1769,Halasur Gate Traffic PS
+5,Bengaluru City,1410,Halasur PS
+5,Bengaluru City,1775,Halasur Traffic PS
+5,Bengaluru City,1386,Halasurgate PS
+5,Bengaluru City,1366,Hanumanthanagar PS
+5,Bengaluru City,1354,Hebbal PS
+5,Bengaluru City,1777,Hebbal Traffic PS
+5,Bengaluru City,1408,Hennur PS
+5,Bengaluru City,1394,High Grounds PS
+5,Bengaluru City,1767,High Grounds Traffic PS
+5,Bengaluru City,2132,HSR Lay Out Traffic PS
+5,Bengaluru City,1796,HSR Layout PS
+5,Bengaluru City,1798,Hulimavu PS
+5,Bengaluru City,2001,Hulimavu Traffic PS
+5,Bengaluru City,1412,Indiranagar PS
+5,Bengaluru City,1351,J.C. Nagar PS
+5,Bengaluru City,1421,Jagajeevanram Nagar PS
+5,Bengaluru City,14,Jalahalli PS
+5,Bengaluru City,2005,Jalahalli Traffic PS
+5,Bengaluru City,1372,Jayanagar PS
+5,Bengaluru City,1786,Jayanagar Traffic PS
+5,Bengaluru City,1373,Jayaprakash Nagar PS
+5,Bengaluru City,1413,Jeevan Bheemanagar PS
+5,Bengaluru City,1773,Jeevan Bhima Nagar (Indiranagar) Traffic PS
+5,Bengaluru City,1422,Jnanabharathi PS
+5,Bengaluru City,2347,Jnanabharathi Traffic PS
+5,Bengaluru City,2201,K G Halli Traffic PS
+5,Bengaluru City,1405,K.R. Puram PS
+5,Bengaluru City,1774,K.R.Puram Traffic PS
+5,Bengaluru City,257,Kadugodi PS
+5,Bengaluru City,1407,Kadugondana Halli PS
+5,Bengaluru City,1431,Kalasipalya PS
+5,Bengaluru City,1428,Kamakshipalya PS
+5,Bengaluru City,1793,Kamakshipalya Traffic PS
+5,Bengaluru City,1427,Kempapura Agrahara PS
+5,Bengaluru City,1367,Kempegowda Nagar PS
+5,Bengaluru City,1423,Kengeri PS
+5,Bengaluru City,2006,Kengeri Traffic PS
+5,Bengaluru City,1873,Kodigehalli PS
+5,Bengaluru City,2202,Konanakunte PS
+5,Bengaluru City,1383,Koramangala PS
+5,Bengaluru City,1875,Kothanur PS
+5,Bengaluru City,1378,Kumaraswamy Layout PS
+5,Bengaluru City,1795,Kumaraswamy Layout Traffic PS
+5,Bengaluru City,1380,Madivala PS
+5,Bengaluru City,1763,Madivala Traffic PS
+5,Bengaluru City,1425,Magadi Road PS
+5,Bengaluru City,1790,Magadi Road Traffic PS
+5,Bengaluru City,1414,Mahadevapura PS
+5,Bengaluru City,1359,Mahalakshmipuram PS
+5,Bengaluru City,1357,Malleshwaram PS
+5,Bengaluru City,1778,Malleshwaram Traffic PS
+5,Bengaluru City,2199,Marathahalli PS
+5,Bengaluru City,1381,Mico Layout PS
+5,Bengaluru City,1764,Mico Layout Traffic PS
+5,Bengaluru City,1363,Nandini Layout PS
+5,Bengaluru City,2149,North CEN Crime PS
+5,Bengaluru City,247,North East Women PS
+5,Bengaluru City,2345,North Women PS
+5,Bengaluru City,2260,NorthEast CEN Crime PS
+5,Bengaluru City,1800,Parappana Agrahara
+5,Bengaluru City,1350,Peenya PS
+5,Bengaluru City,1779,Peenya Traffic PS
+5,Bengaluru City,1399,Pulakeshinagar PS
+5,Bengaluru City,1772,Pulakeshinagar Traffic PS
+5,Bengaluru City,2203,Puttenahalli PS
+5,Bengaluru City,1349,R.M.C. Yard PS
+5,Bengaluru City,1352,R.T. Nagar PS
+5,Bengaluru City,1780,R.T.Nagar Traffic PS
+5,Bengaluru City,1362,Rajagopal Nagar PS
+5,Bengaluru City,1360,Rajajinagar PS
+5,Bengaluru City,1781,Rajajinagar Traffic PS
+5,Bengaluru City,1877,Rajarajeshwari Nagar PS
+5,Bengaluru City,1409,Ramamurthy Nagar PS
+5,Bengaluru City,1392,S.J. Park PS
+5,Bengaluru City,1396,Sadashivanagar PS
+5,Bengaluru City,1768,Sadashivanagar Traffic PS
+5,Bengaluru City,1391,Sampangiramanagar PS
+5,Bengaluru City,1874,Sampigehalli PS
+5,Bengaluru City,1353,Sanjay Nagar PS
+5,Bengaluru City,1393,Seshadripuram PS
+5,Bengaluru City,1369,Shankarpura PS
+5,Bengaluru City,1403,Shivajinagar PS
+5,Bengaluru City,1771,Shivajinagar Traffic PS
+5,Bengaluru City,1385,Siddapura PS
+5,Bengaluru City,30,Soladevanahalli PS
+5,Bengaluru City,2258,South CEN Crime PS
+5,Bengaluru City,2346,South East Women PS
+5,Bengaluru City,1377,South Women PS
+5,Bengaluru City,2259,SouthEast CEN Crime PS
+5,Bengaluru City,1358,Srirampura PS
+5,Bengaluru City,1361,Subramanyanagar PS
+5,Bengaluru City,1379,Subramanyapura PS
+5,Bengaluru City,2197,Suddaguntepalya PS
+5,Bengaluru City,1347,Thalaghattapura PS
+5,Bengaluru City,1384,Thilaknagar PS
+5,Bengaluru City,1430,Upparpet PS
+5,Bengaluru City,1791,Upparpet Traffic PS
+5,Bengaluru City,1785,V V Puram Traffic PS
+5,Bengaluru City,259,Varthur PS
+5,Bengaluru City,1397,Vidhana Soudha PS
+5,Bengaluru City,15,Vidyaranyapura PS
+5,Bengaluru City,1424,Vijayanagar PS
+5,Bengaluru City,1792,Vijayanagar Traffic PS
+5,Bengaluru City,1365,Vishveshwarapuram PS
+5,Bengaluru City,1390,Viveknagar PS
+5,Bengaluru City,1395,Vyalikaval PS
+5,Bengaluru City,2148,West CEN Crime PS
+5,Bengaluru City,2348,West Women PS
+5,Bengaluru City,2261,Whitefield CEN Crime PS
+5,Bengaluru City,258,Whitefield PS
+5,Bengaluru City,1895,Whitefield Traffic PS
+5,Bengaluru City,2350,Whitefield Women PS
+5,Bengaluru City,1388,Wilsongarden PS
+5,Bengaluru City,1765,Wilsongarden Traffic PS
+5,Bengaluru City,1356,Yelahanka New Town PS
+5,Bengaluru City,1355,Yelahanka PS
+5,Bengaluru City,1794,Yelahanka Traffic PS
+5,Bengaluru City,6,Yeshwanthapura PS
+5,Bengaluru City,1782,Yeshwanthapura Traffic PS
+6,Bengaluru Dist,1330,Anekal PS
+6,Bengaluru Dist,1812,Anugondanahalli PS
+6,Bengaluru Dist,1332,Attibele PS
+6,Bengaluru Dist,1916,Avalahally PS
+6,Bengaluru Dist,1331,Bannerghatta PS
+6,Bengaluru Dist,2222,Bengaluru CEN Crime PS
+6,Bengaluru Dist,2247,Bengaluru Dist Women PS
+6,Bengaluru Dist,1814,Chennarayapatana PS
+6,Bengaluru Dist,272,Dobbespet PS
+6,Bengaluru Dist,263,Doddaballapura Rural PS
+6,Bengaluru Dist,262,Doddaballapura Town PS
+6,Bengaluru Dist,264,Doddabelavangala PS
+6,Bengaluru Dist,1333,Hebbagodi PS
+6,Bengaluru Dist,1335,Hosahalli PS
+6,Bengaluru Dist,253,Hosakote PS
+6,Bengaluru Dist,2264,Hosakote Traffic PS
+6,Bengaluru Dist,2000,Jigani PS
+6,Bengaluru Dist,1914,Madanayakanahally PS
+6,Bengaluru Dist,254,Nandagudi PS
+6,Bengaluru Dist,1913,Nelamangala Rural PS
+6,Bengaluru Dist,271,Nelamangala Town PS
+6,Bengaluru Dist,2169,Nelamangala Traffic PS
+6,Bengaluru Dist,1336,Rajanukunte PS
+6,Bengaluru Dist,1334,Sarjapura PS
+6,Bengaluru Dist,1816,Sulibele PS
+6,Bengaluru Dist,2144,Suryanagar PS
+6,Bengaluru Dist,1811,Thirumalashettahalli PS
+6,Bengaluru Dist,273,Thyamagondlu PS
+6,Bengaluru Dist,267,Vijayapura PS
+6,Bengaluru Dist,1878,Vishwanathapura PS
+7,Bidar,1474,Aurad PS
+7,Bidar,400,Bagdal PS
+7,Bidar,403,Basava Kalyana Rural PS
+7,Bidar,401,Basava Kalyana Town PS
+7,Bidar,405,Basava Kalyana Traffic PS
+7,Bidar,383,Bemalkhed PS
+7,Bidar,390,Bhalki Rural PS
+7,Bidar,1477,Bhalki Town PS
+7,Bidar,2224,Bidar CEN Crime PS
+7,Bidar,396,Bidar Rural PS
+7,Bidar,372,Bidar Town PS
+7,Bidar,377,Bidar Traffic PS
+7,Bidar,2139,Bidar Women PS
+7,Bidar,1476,Chintaki PS
+7,Bidar,381,Chitaguppa PS
+7,Bidar,392,Dhannura PS
+7,Bidar,374,Gandhi Gunj PS
+7,Bidar,386,Hallikhed PS
+7,Bidar,1921,Hokrana PS
+7,Bidar,404,Hulsoor PS
+7,Bidar,385,Humnabad PS
+7,Bidar,1922,Humnabad Traffic PS
+7,Bidar,399,Janwada PS
+7,Bidar,394,Kamalanagar PS
+7,Bidar,391,Khataka Chincholi PS
+7,Bidar,395,Kushnoor PS
+7,Bidar,382,Manna Ekhelli PS
+7,Bidar,2004,Mannalli PS
+7,Bidar,376,Market PS
+7,Bidar,1469,Matala PS
+7,Bidar,2130,Mehakar PS
+7,Bidar,1471,Mudbi PS
+7,Bidar,373,New Town PS
+7,Bidar,1475,Shanthapur PS
+8,Chamarajanagar,2009,Begur PS
+8,Chamarajanagar,2178,Chamarajanagar CEN Crime PS
+8,Chamarajanagar,1121,Chamarajanagar East PS
+8,Chamarajanagar,1120,Chamarajanagar Rural PS
+8,Chamarajanagar,1119,Chamarajanagar Town PS
+8,Chamarajanagar,2105,Chamarajanagar Traffic PS
+8,Chamarajanagar,2173,Chamrajanagar Women ps
+8,Chamarajanagar,1123,Gundlupete PS
+8,Chamarajanagar,1137,Hanur PS
+8,Chamarajanagar,1129,Kollegala Rural PS
+8,Chamarajanagar,1128,Kollegala Town PS
+8,Chamarajanagar,1125,Kuderu PS
+8,Chamarajanagar,1138,M.M. Hills PS
+8,Chamarajanagar,1133,Mambali PS
+8,Chamarajanagar,1130,Ramapura PS
+8,Chamarajanagar,1134,Santemaralli PS
+8,Chamarajanagar,1124,Terakambi PS
+8,Chamarajanagar,1132,Yelandur PS
+9,Chickballapura,1572,Bagepalli PS
+9,Chickballapura,827,Batlahalli PS
+9,Chickballapura,1576,Chelur PS
+9,Chickballapura,2152,Chickaballapura CEN Crime PS
+9,Chickballapura,834,Chickballapura Rural PS
+9,Chickballapura,833,Chickballapura Town PS
+9,Chickballapura,1919,Chickballapura Traffic PS
+9,Chickballapura,824,Chintamani Rural PS
+9,Chickballapura,823,Chintamani Town PS
+9,Chickballapura,832,Dibburahalli PS
+9,Chickballapura,837,Gowribidanur Rural PS
+9,Chickballapura,836,Gowribidanur Town PS
+9,Chickballapura,1569,Gudibande PS
+9,Chickballapura,825,Kencharlahalli PS
+9,Chickballapura,838,Manchenalli PS
+9,Chickballapura,2129,Nandi Giridhama PS
+9,Chickballapura,1575,Patapalya PS
+9,Chickballapura,2299,Peresandra PS
+9,Chickballapura,829,Shidlagatta Rural PS
+9,Chickballapura,828,Shidlaghatta Town PS
+9,Chickballapura,2157,Women PS Chikkaballapura
+10,Chikkamagaluru,474,Ajjampura PS
+10,Chikkamagaluru,455,Aldur PS
+10,Chikkamagaluru,463,Balehonnur PS
+10,Chikkamagaluru,456,Balur PS
+10,Chikkamagaluru,460,Banakal PS
+10,Chikkamagaluru,451,Basavanahalli PS
+10,Chikkamagaluru,477,Birur PS
+10,Chikkamagaluru,2211,Chickmagalur CEN Crime PS
+10,Chikkamagaluru,454,Chickmagalur Rural PS
+10,Chikkamagaluru,450,Chickmagalur Town PS
+10,Chikkamagaluru,452,Chickmagalur Traffic PS
+10,Chikkamagaluru,2206,Chickmagalur Women PS
+10,Chikkamagaluru,461,Gonibeedu PS
+10,Chikkamagaluru,465,Hariharapura PS
+10,Chikkamagaluru,1890,Jayapura PS
+10,Chikkamagaluru,481,Kadur PS
+10,Chikkamagaluru,1525,Kalasa PS
+10,Chikkamagaluru,464,Koppa PS
+10,Chikkamagaluru,1528,Kuduremukh PS
+10,Chikkamagaluru,1750,Lakkavalli PS
+10,Chikkamagaluru,473,Lingadahalli PS
+10,Chikkamagaluru,1891,Mallanduru PS
+10,Chikkamagaluru,459,Mudigere PS
+10,Chikkamagaluru,470,N.R. Pura PS
+10,Chikkamagaluru,483,Panchanahalli PS
+10,Chikkamagaluru,482,Sakkaraya Patna PS
+10,Chikkamagaluru,479,Singatagere PS
+10,Chikkamagaluru,232,Sringeri PS
+10,Chikkamagaluru,468,Tarikere Town PS
+10,Chikkamagaluru,469,Yagati PS
+11,Chitradurga,512,Abbinahole PS
+11,Chitradurga,494,Bharamasagara PS
+11,Chitradurga,500,Challakere PS
+11,Chitradurga,499,Chikkajajur PS
+11,Chitradurga,2226,Chitradurga CEN Crime PS
+11,Chitradurga,2212,Chitradurga Extension PS
+11,Chitradurga,490,Chitradurga Kote PS
+11,Chitradurga,493,Chitradurga Rural PS
+11,Chitradurga,489,Chitradurga Town PS
+11,Chitradurga,491,Chitradurga Traffic PS
+11,Chitradurga,2135,Chitrahalli Gate PS
+11,Chitradurga,1925,Hiriyur Rural PS
+11,Chitradurga,509,Hiriyur Town PS
+11,Chitradurga,498,Holalkere PS
+11,Chitradurga,513,Hosadurga PS
+11,Chitradurga,511,Imangala PS
+11,Chitradurga,507,Molakalmuru PS
+11,Chitradurga,502,Nayakanhatti PS
+11,Chitradurga,504,Parasurampura PS
+11,Chitradurga,508,Rampura PS
+11,Chitradurga,516,Srirampura PS
+11,Chitradurga,503,Thalak PS
+11,Chitradurga,495,Turuvanur (Jogi) PS
+11,Chitradurga,2118,Women PS
+12,CID,2111,CCPS Central Range Bengaluru City
+12,CID,1946,Cyber Crime Police Station CID
+12,CID,2116,Cyber Crime Police Station Mangaluru
+12,CID,2114,Cyber Crime PoliceStation Davanagere
+12,CID,2115,Cyber Crime PoliceStation Dharwad
+12,CID,2113,Cyber Crime PoliceStation Kalaburgi
+12,CID,2112,Cyber Crime PoliceStation Mysuru
+13,Coastal Security Police,2109,Belekeri CSP
+13,Coastal Security Police,1908,Bhatkal CSP
+13,Coastal Security Police,2107,Gangolli CSP
+13,Coastal Security Police,1948,Hejamady CSP
+13,Coastal Security Police,2108,Honnavar CSP
+13,Coastal Security Police,1909,Karwar CSP
+13,Coastal Security Police,1910,Kumta CSP
+13,Coastal Security Police,1907,Malpe CSP
+13,Coastal Security Police,1906,Mangalore CSP
+14,Dakshina Kannada,2095,Bantwala Traffic PS
+14,Dakshina Kannada,2158,Bellare PS
+14,Dakshina Kannada,1070,Belthangadi PS
+14,Dakshina Kannada,2245,Belthangadi Traffic PS
+14,Dakshina Kannada,1073,Buntwala Rural PS
+14,Dakshina Kannada,1072,Buntwala Town PS
+14,Dakshina Kannada,2209,Dakshina Kannada Women PS
+14,Dakshina Kannada,2142,Dharmasthala PS
+14,Dakshina Kannada,2227,DK CEN Crime PS
+14,Dakshina Kannada,1065,Kadaba PS
+14,Dakshina Kannada,1926,Punjalkatte PS
+14,Dakshina Kannada,1063,Puttur Rural PS
+14,Dakshina Kannada,1060,Puttur Town PS
+14,Dakshina Kannada,1927,Puttur Traffic PS
+14,Dakshina Kannada,1669,Subramanya PS
+14,Dakshina Kannada,1061,Sullia PS
+14,Dakshina Kannada,1064,Uppinangadi PS
+14,Dakshina Kannada,1672,Venoor PS
+14,Dakshina Kannada,1074,Vitla PS
+15,Davanagere,98,Azad Nagar PS
+15,Davanagere,97,Basavanagara PS
+15,Davanagere,1524,Basavapatna PS
+15,Davanagere,120,Bilichodu PS
+15,Davanagere,1522,Channagiri PS
+15,Davanagere,2136,Davanagere CEN Crime PS
+15,Davanagere,101,Davanagere Extention PS
+15,Davanagere,106,Davanagere Rural PS
+15,Davanagere,1521,Davanagere South Traffic PS
+15,Davanagere,1928,Davangere Traffic North PS
+15,Davanagere,99,Gandhi Nagar PS
+15,Davanagere,107,Hadadi PS
+15,Davanagere,111,Harihara Rural PS
+15,Davanagere,110,Harihara Town PS
+15,Davanagere,1526,Honnali PS
+15,Davanagere,119,Jagalur PS
+15,Davanagere,102,KTJ Nagar PS
+15,Davanagere,112,Malebennur PS
+15,Davanagere,108,Mayakonda PS
+15,Davanagere,1527,Nyamathi PS
+15,Davanagere,1519,RMC Yard PS
+15,Davanagere,1523,Santhebennur PS
+15,Davanagere,103,Vidyanagar PS
+15,Davanagere,1520,Women PS
+16,Dharwad,610,Alnavar PS
+16,Dharwad,613,Annigeri PS
+16,Dharwad,2228,Dharwad CEN Crime PS
+16,Dharwad,608,Dharwad Rural PS
+16,Dharwad,2184,Dharwad Women PS
+16,Dharwad,609,Garag PS
+16,Dharwad,1929,Gudageri PS
+16,Dharwad,1538,Hubli Rural PS
+16,Dharwad,1535,Kalaghatagi PS
+16,Dharwad,1540,Kundagol PS
+16,Dharwad,612,Navalgund PS
+17,Gadag,1559,Betageri Extention PS
+17,Gadag,1558,Betageri PS
+17,Gadag,2229,Gadag CEN Crime PS
+17,Gadag,179,Gadag Rural PS
+17,Gadag,175,Gadag Town PS
+17,Gadag,176,Gadag Traffic PS
+17,Gadag,2186,Gadag Women PS
+17,Gadag,1566,Gajendragad PS
+17,Gadag,1563,Lakshmeshwar PS
+17,Gadag,180,Mulagund PS
+17,Gadag,1567,Mundargi PS
+17,Gadag,1565,Naregal PS
+17,Gadag,1568,Nargund PS
+17,Gadag,1564,Ron PS
+17,Gadag,1562,Shirahatti PS
+18,Hassan,727,Alur PS
+18,Hassan,749,Arakalagud PS
+18,Hassan,738,Arasikere Rural PS
+18,Hassan,1819,Arasikere Town PS
+18,Hassan,753,Arehalli PS
+18,Hassan,739,Banavara PS
+18,Hassan,752,Belur PS
+18,Hassan,1621,Channarayapatna Rural PS
+18,Hassan,1620,Channarayapatna Town PS
+18,Hassan,2167,Channarayapatna Traffic PS
+18,Hassan,726,Dudda PS
+18,Hassan,740,Gandasi PS
+18,Hassan,725,Goruru PS
+18,Hassan,754,Halebeedu PS
+18,Hassan,2187,Hallymysore PS
+18,Hassan,2219,Hassan CEN Crime PS
+18,Hassan,1741,Hassan City PS
+18,Hassan,1743,Hassan Extn. PS
+18,Hassan,1748,Hassan Rural PS
+18,Hassan,1742,Hassan Traffic PS
+18,Hassan,2127,Hassan Women PS
+18,Hassan,1624,Hirisave PS
+18,Hassan,744,Holenarasipura Rural PS
+18,Hassan,745,Holenarasipura Town PS
+18,Hassan,1930,Javagal PS
+18,Hassan,748,Konanur PS
+18,Hassan,1622,Nuggehalli PS
+18,Hassan,1744,Pension Mohalla PS
+18,Hassan,757,Sakaleshpura Rural PS
+18,Hassan,756,Sakaleshpura Town PS
+18,Hassan,1824,Shanthigrama PS
+18,Hassan,1623,Shravanabelagola PS
+18,Hassan,758,Yesalur PS
+19,Haveri,160,Adur PS
+19,Haveri,1931,Bankapura PS
+19,Haveri,140,Byadagi PS
+19,Haveri,138,Guttal PS
+19,Haveri,147,Halageri PS
+19,Haveri,159,Hanagal PS
+19,Haveri,151,Hansabhavi PS
+19,Haveri,2230,Haveri CEN Crime PS
+19,Haveri,137,Haveri Rural PS
+19,Haveri,136,Haveri Town PS
+19,Haveri,2213,Haveri Traffic PS
+19,Haveri,2143,Haveri Women PS
+19,Haveri,150,Hirekerur PS
+19,Haveri,141,Kaginele PS
+19,Haveri,149,Kumarapattanam PS
+19,Haveri,146,Ranebennur Rural PS
+19,Haveri,142,Ranebennur Town PS
+19,Haveri,145,Ranebennur Traffic PS
+19,Haveri,154,Rattihalli PS
+19,Haveri,158,Savanoor PS
+19,Haveri,155,Shiggaon PS
+19,Haveri,156,Tadas PS
+20,Hubballi Dharwad City,1901,APMC Navanagar
+20,Hubballi Dharwad City,1935,Ashoknagar PS
+20,Hubballi Dharwad City,79,Bendigeri PS
+20,Hubballi Dharwad City,2237,CEN Crime PS Hubballi Dharwad City
+20,Hubballi Dharwad City,1686,Dharwad Sub-Urban PS
+20,Hubballi Dharwad City,81,Dharwad Town PS
+20,Hubballi Dharwad City,1690,Dharwad Traffic PS
+20,Hubballi Dharwad City,2238,E and N Crime PS HD city
+20,Hubballi Dharwad City,77,Ghantikeri PS
+20,Hubballi Dharwad City,71,Gokul Road PS
+20,Hubballi Dharwad City,1936,Hubli East Traffic PS
+20,Hubballi Dharwad City,1688,Hubli North Traffic PS
+20,Hubballi Dharwad City,1689,Hubli South Traffic PS
+20,Hubballi Dharwad City,70,Hubli Sub-Urban PS
+20,Hubballi Dharwad City,76,Hubli Town PS
+20,Hubballi Dharwad City,72,Kamaripeth PS
+20,Hubballi Dharwad City,80,Kasabapeth PS
+20,Hubballi Dharwad City,73,Keshavapur PS
+20,Hubballi Dharwad City,78,Old Hubli PS
+20,Hubballi Dharwad City,1687,Vidyagiri PS
+20,Hubballi Dharwad City,74,Vidyanagar PS
+20,Hubballi Dharwad City,75,Women PS
+21,ISD Bengaluru,2021,ISD PS
+22,K.G.F,219,Andersonpet PS
+22,K.G.F,227,Bangarpet PS
+22,K.G.F,215,BEML Nagar PS
+22,K.G.F,228,Bethamangala PS
+22,K.G.F,2295,"Budikote Police Station
+"
+22,K.G.F,223,Champion Reefs PS
+22,K.G.F,229,Kamasamudram PS
+22,K.G.F,2137,KGF CEN Crime PS
+22,K.G.F,2296,"Kyasamballi Police Station
+"
+22,K.G.F,224,Marikuppam PS
+22,K.G.F,214,Oorgaum PS
+22,K.G.F,218,Robertsonpet PS
+23,Kalaburagi,1610,Afzalpur PS
+23,Kalaburagi,1605,Alland PS
+23,Kalaburagi,1579,Chincholi PS
+23,Kalaburagi,1577,Chittapura PS
+23,Kalaburagi,1613,Devalagangapur PS
+23,Kalaburagi,1570,Jewargi PS
+23,Kalaburagi,2231,Kalaburagi CEN Crime PS
+23,Kalaburagi,1561,Kalaburagi Women PS
+23,Kalaburagi,718,Kalagi PS
+23,Kalaburagi,710,Kamalapur PS
+23,Kalaburagi,1580,Kunchavaram PS
+23,Kalaburagi,1586,Kurakunta PS
+23,Kalaburagi,1614,Madanahipparga PS
+23,Kalaburagi,717,Madbool PS
+23,Kalaburagi,709,Mahagoan PS
+23,Kalaburagi,1588,Malkhed PS
+23,Kalaburagi,1581,Miryan PS
+23,Kalaburagi,1587,Mudhol PS
+23,Kalaburagi,1607,Narona PS
+23,Kalaburagi,1573,Nelogi PS
+23,Kalaburagi,1609,Nimbarga PS
+23,Kalaburagi,1583,Ratkal PS
+23,Kalaburagi,1612,Revoor PS
+23,Kalaburagi,1585,Sedam PS
+23,Kalaburagi,713,Shahabad Town PS
+23,Kalaburagi,1582,Sulepet PS
+23,Kalaburagi,1578,Wadi PS
+23,Kalaburagi,1571,Yedrami PS
+24,Kalaburagi City,687,Ashoknagar PS
+24,Kalaburagi City,688,Brahmapur PS
+24,Kalaburagi City,695,Chowk PS
+24,Kalaburagi City,690,Ferhatabad PS
+24,Kalaburagi City,2256,Kalaburagi City CENCrime PS
+24,Kalaburagi City,2257,Kalaburagi City Women PS
+24,Kalaburagi City,708,Kalaburagi Rural PS
+24,Kalaburagi City,1747,Kalaburagi Traffic I PS
+24,Kalaburagi City,1560,Kalaburagi Traffic II PS
+24,Kalaburagi City,704,MB Nagar PS
+24,Kalaburagi City,1557,Ragavendranagar PS
+24,Kalaburagi City,696,Roza PS
+24,Kalaburagi City,686,Station Bazar PS
+24,Kalaburagi City,705,University PS
+25,Karnataka Railways,782,Arasikere Rly PS
+25,Karnataka Railways,245,Bangalore Cantonment Rly PS
+25,Karnataka Railways,241,Bangalore City Rly PS
+25,Karnataka Railways,242,Bangalore Rural Rly PS
+25,Karnataka Railways,246,Bangarpet Rly PS
+25,Karnataka Railways,287,Belgaum Rly PS
+25,Karnataka Railways,1075,Bellary Rly PS
+25,Karnataka Railways,956,Bidar Rly PS
+25,Karnataka Railways,1290,Bijapur Rly PS
+25,Karnataka Railways,247,Byappanahalli Rly PS
+25,Karnataka Railways,1286,Davanagere Rly PS
+25,Karnataka Railways,1291,Gadag Rly PS
+25,Karnataka Railways,248,Hubli Rly PS
+25,Karnataka Railways,1282,Mangalore Rly PS
+25,Karnataka Railways,678,Mysore Rly PS
+25,Karnataka Railways,1034,Raichur Rly PS
+25,Karnataka Railways,1279,Shimoga Rly PS
+25,Karnataka Railways,798,Wadi Rly PS
+26,Kodagu,574,Bhagamandala PS
+26,Kodagu,582,Gonikoppa PS
+26,Kodagu,2232,Kodagu CEN Crime PS
+26,Kodagu,2185,Kodagu Women PS
+26,Kodagu,2138,Kushalanagar Rural PS
+26,Kodagu,587,Kushalnagar PS
+26,Kodagu,2180,Kushalnagar Traffic PS
+26,Kodagu,1631,Kutta PS
+26,Kodagu,575,Madikeri Rural PS
+26,Kodagu,569,Madikeri Town PS
+26,Kodagu,571,Madikeri Traffic PS
+26,Kodagu,573,Napoklu PS
+26,Kodagu,583,Ponnampet PS
+26,Kodagu,592,Shanivarasanthe PS
+26,Kodagu,570,Siddapura PS
+26,Kodagu,591,Somwarpet PS
+26,Kodagu,1632,Srimangala PS
+26,Kodagu,588,Sunticoppa PS
+26,Kodagu,579,Virajpet Rural PS
+26,Kodagu,578,Virajpet Town PS
+27,Kolar,820,Gownapalli PS
+27,Kolar,806,Gulpet PS
+27,Kolar,2131,Kolar CEN Crime PS
+27,Kolar,809,Kolar Rural PS
+27,Kolar,805,Kolar Town PS
+27,Kolar,807,Kolar Traffic PS
+27,Kolar,2151,Kolar Women PS
+27,Kolar,811,Malur PS
+27,Kolar,814,Masti PS
+27,Kolar,2168,Mulbagal Rural PS
+27,Kolar,815,Mulbagal Town PS
+27,Kolar,816,Nangli PS
+27,Kolar,819,Rayalpad PS
+27,Kolar,818,Srinivasapura PS
+27,Kolar,810,Vemagal PS
+28,Koppal,1160,Alwandi PS
+28,Koppal,1167,Bevoor PS
+28,Koppal,1171,Gangavathi Rural PS
+28,Koppal,1168,Gangavathi Town PS
+28,Koppal,1169,Gangavathi Traffic PS
+28,Koppal,1177,Hanumasagar PS
+28,Koppal,1173,Kanakagiri PS
+28,Koppal,1172,Karatagi PS
+28,Koppal,2145,Koppal CEN Crime PS
+28,Koppal,1159,Koppal Rural PS
+28,Koppal,1158,Koppal Town PS
+28,Koppal,2002,Koppal Traffic PS
+28,Koppal,2207,Koppal Women PS
+28,Koppal,1164,Kuknoor PS
+28,Koppal,1176,Kushtagi PS
+28,Koppal,1162,Munirabad PS
+28,Koppal,1178,Tavaregera PS
+28,Koppal,1163,Yelburga PS
+29,Mandya,845,Arakere PS
+29,Mandya,859,Basaralu PS
+29,Mandya,873,Belakavadi PS
+29,Mandya,867,Bellur PS
+29,Mandya,1617,Besagaraghalli PS
+29,Mandya,866,Bindiganavile PS
+29,Mandya,876,Halagur PS
+29,Mandya,875,K.M. Doddi PS
+29,Mandya,850,K.R. Pet Rural PS
+29,Mandya,849,K.R. Pet Town PS
+29,Mandya,846,K.R. Sagar PS
+29,Mandya,863,Keragodu PS
+29,Mandya,1618,Kesthur PS
+29,Mandya,853,Kikkeri PS
+29,Mandya,872,Kirugavalu PS
+29,Mandya,1619,Koppa PS
+29,Mandya,877,Maddur PS
+29,Mandya,1911,Maddur Traffic PS
+29,Mandya,871,Malavalli Rural PS
+29,Mandya,868,Malavalli Town PS
+29,Mandya,2233,Mandya CEN Crime PS
+29,Mandya,2161,Mandya Central PS
+29,Mandya,854,Mandya East PS
+29,Mandya,858,Mandya Rural PS
+29,Mandya,857,Mandya Traffic PS
+29,Mandya,855,Mandya West PS
+29,Mandya,2162,Mandya Women PS
+29,Mandya,1912,Melukote PS
+29,Mandya,1889,Nagamangala Rural PS
+29,Mandya,864,Nagamangala Town PS
+29,Mandya,848,Pandavapura PS
+29,Mandya,862,Shivalli PS
+29,Mandya,844,Srirangapatna PS
+29,Mandya,2160,Srirangapatna Rural PS
+29,Mandya,2263,Srirangapatna Traffic PS
+30,Mangaluru City,1051,Bajpe PS
+30,Mangaluru City,1045,Barke PS
+30,Mangaluru City,2163,Cyber Crime PS Mangaluru City
+30,Mangaluru City,2164,E and N Crime PS Mangaluru City
+30,Mangaluru City,2171,Kankanady Town PS
+30,Mangaluru City,1052,Kavoor PS
+30,Mangaluru City,1055,Konaje PS
+30,Mangaluru City,1043,Mangalore East PS
+30,Mangaluru City,1662,Mangalore East Traffic PS
+30,Mangaluru City,1041,Mangalore North PS
+30,Mangaluru City,1056,Mangalore Rural PS
+30,Mangaluru City,1042,Mangalore South PS
+30,Mangaluru City,1663,Mangalore West Traffic PS
+30,Mangaluru City,1047,Mangalore Women PS
+30,Mangaluru City,1069,Moodabidre PS
+30,Mangaluru City,1068,Mulki PS
+30,Mangaluru City,1050,Panambur PS
+30,Mangaluru City,1054,Surathkal PS
+30,Mangaluru City,2013,Traffic North Police Station
+30,Mangaluru City,2172,Traffic South Police Station
+30,Mangaluru City,1059,Ullal PS
+30,Mangaluru City,1046,Urva PS
+31,Mysuru City,2174,Alanahally PS
+31,Mysuru City,48,Ashokpuram PS
+31,Mysuru City,2214,Cyber Crime PS Mysuru City
+31,Mysuru City,52,Devaraja PS
+31,Mysuru City,59,Deveraja Traffic PS
+31,Mysuru City,2215,E and N Crime PS Mysuru City
+31,Mysuru City,2177,Hebbal PS
+31,Mysuru City,43,Jayalakshmipuram PS
+31,Mysuru City,46,Krishnaraja PS
+31,Mysuru City,58,Krishnaraja Traffic PS
+31,Mysuru City,51,Kuvempunagar PS
+31,Mysuru City,53,Lashkar PS
+31,Mysuru City,49,Laxmipuram PS
+31,Mysuru City,40,Mandi PS
+31,Mysuru City,42,Metagalli PS
+31,Mysuru City,41,Narasimharaja PS
+31,Mysuru City,57,Narasimharaja Traffic PS
+31,Mysuru City,54,Nazarbad PS
+31,Mysuru City,50,Saraswathipuram PS
+31,Mysuru City,2015,Siddarthanagar Traffic PS
+31,Mysuru City,55,Udayagiri PS
+31,Mysuru City,2014,V V Puram Traffic PS
+31,Mysuru City,44,V.V. Puram PS
+31,Mysuru City,47,Vidyaranyarpuram PS
+31,Mysuru City,45,Vijayanagar PS
+31,Mysuru City,56,Women PS
+32,Mysuru Dist,906,Bannur PS
+32,Mysuru Dist,897,Beechanahalli PS
+32,Mysuru Dist,1604,Bettadapura PS
+32,Mysuru Dist,903,Biligere PS I Badanavalu
+32,Mysuru Dist,894,Bilikere PS
+32,Mysuru Dist,1602,Bylakuppe PS
+32,Mysuru Dist,896,H.D. Kote PS
+32,Mysuru Dist,1556,Hullahalli PS
+32,Mysuru Dist,893,Hunusur Rural PS
+32,Mysuru Dist,892,Hunusur Town PS
+32,Mysuru Dist,885,Jayapura PS
+32,Mysuru Dist,887,K.R. Nagar PS
+32,Mysuru Dist,1611,Kowlande PS
+32,Mysuru Dist,883,Mysore South PS
+32,Mysuru Dist,2234,Mysuru CEN Crime PS
+32,Mysuru Dist,2210,Mysuru Women PS
+32,Mysuru Dist,902,Nanjanagudu Rural PS
+32,Mysuru Dist,901,Nanjanagudu Town PS
+32,Mysuru Dist,2017,Nanjangudu Traffic PS
+32,Mysuru Dist,1600,Periyapatna PS
+32,Mysuru Dist,888,Saligrama PS
+32,Mysuru Dist,898,Saragur PS
+32,Mysuru Dist,905,T. Narasipura PS
+32,Mysuru Dist,907,Talakadu PS
+32,Mysuru Dist,2155,Varuna PS
+32,Mysuru Dist,884,Yelawala PS
+33,Raichur,980,Balaganoor PS
+33,Raichur,992,Devadurga PS
+33,Raichur,1932,Devadurga Traffic PS
+33,Raichur,994,Gabbur PS
+33,Raichur,988,Hutti PS
+33,Raichur,970,Idapanur PS
+33,Raichur,993,Jalhalli PS
+33,Raichur,984,Kowthal PS
+33,Raichur,985,Lingasugur PS
+33,Raichur,981,Manvi PS
+33,Raichur,972,Market Yard PS
+33,Raichur,989,Maski PS
+33,Raichur,990,Mudgal PS
+33,Raichur,962,Netajinagar PS
+33,Raichur,2235,Raichur CEN Crime PS
+33,Raichur,963,Raichur Rural PS
+33,Raichur,974,Raichur Traffic PS
+33,Raichur,971,Raichur West PS
+33,Raichur,961,Sadar Bazar PS
+33,Raichur,965,Shakti Nagar PS
+33,Raichur,976,Sindanoor Rural PS
+33,Raichur,2125,Sindanur Traffic PS
+33,Raichur,975,Sindhanoor Town PS
+33,Raichur,983,Sirwar PS
+33,Raichur,979,Turvihal PS
+33,Raichur,2124,Women PS
+33,Raichur,966,Yapaladinni PS
+33,Raichur,967,Yeregera PS
+34,Ramanagara,286,Akkur PS
+34,Ramanagara,1345,Bidadi PS
+34,Ramanagara,281,Channapatna East PS
+34,Ramanagara,284,Channapatna Rural PS
+34,Ramanagara,280,Channapatna Town PS
+34,Ramanagara,2165,CHANNAPATNA TRAFFIC PS
+34,Ramanagara,1346,Harohalli PS
+34,Ramanagara,1342,Ijoor PS
+34,Ramanagara,1937,Kaggalipura PS
+34,Ramanagara,1338,Kanakapura Rural PS
+34,Ramanagara,1337,Kanakapura Town PS
+34,Ramanagara,2106,Kanakapura Traffic PS
+34,Ramanagara,1339,Kodihalli PS
+34,Ramanagara,276,Kudur PS
+34,Ramanagara,2003,Kumbalagudu PS
+34,Ramanagara,285,M.K. Doddi PS
+34,Ramanagara,275,Magadi PS
+34,Ramanagara,2153,Ramanagar CEN Crime PS
+34,Ramanagara,1344,Ramanagara Rural PS
+34,Ramanagara,1341,Ramanagara Town PS
+34,Ramanagara,1343,Ramanagara Traffic PS
+34,Ramanagara,2208,Ramanagara Women PS
+34,Ramanagara,1340,Sathnoor PS
+34,Ramanagara,277,Tavarekere PS
+35,Shivamogga,1823,Agumbe PS
+35,Shivamogga,2338,Anandapura PS
+35,Shivamogga,1664,Anavatti PS
+35,Shivamogga,1014,Bhadravathi New Town PS
+35,Shivamogga,1013,Bhadravathi Old Town PS
+35,Shivamogga,1018,Bhadravathi Rural PS
+35,Shivamogga,1015,Bhadravathi Traffic PS
+35,Shivamogga,1000,Doddapete PS
+35,Shivamogga,1019,Holehonnur PS
+35,Shivamogga,1933,Hosamane PS
+35,Shivamogga,1745,Hosanagara PS
+35,Shivamogga,1006,Jayanagara PS
+35,Shivamogga,1027,Jog PS
+35,Shivamogga,1024,Kargal PS
+35,Shivamogga,1005,Kote PS
+35,Shivamogga,1004,Kumsi PS
+35,Shivamogga,1011,Malur PS
+35,Shivamogga,1900,Nagara PS
+35,Shivamogga,1020,Paper Town PS
+35,Shivamogga,1749,Ripponpet PS
+35,Shivamogga,1023,Sagar Rural PS
+35,Shivamogga,1022,Sagar Town PS
+35,Shivamogga,1886,Shikaripura Rural PS
+35,Shivamogga,1031,Shikaripura Town PS
+35,Shivamogga,2007,Shimoga East Traffic PS
+35,Shivamogga,1002,Shimoga Rural PS
+35,Shivamogga,1001,Shimoga Traffic PS
+35,Shivamogga,1032,Shiralakuppa PS
+35,Shivamogga,2175,Shivamogga CEN Crime PS
+35,Shivamogga,1033,Soraba PS
+35,Shivamogga,1010,Thirthahalli PS
+35,Shivamogga,1815,Tunga Nagar PS
+35,Shivamogga,1887,Vinobanagara PS
+35,Shivamogga,1009,Women PS
+36,Tumakuru,1100,Amruthur PS
+36,Tumakuru,1659,Arasikere PS
+36,Tumakuru,1806,Badavanahalli PS
+36,Tumakuru,1090,Bellavi PS
+36,Tumakuru,1095,Chandrashekarpura PS
+36,Tumakuru,1094,Chelur PS
+36,Tumakuru,1652,Chikkanayakanahalli PS
+36,Tumakuru,1103,Dandina Shivara PS
+36,Tumakuru,1093,Gubbi PS
+36,Tumakuru,1801,Handanakere PS
+36,Tumakuru,1636,Hebbur PS
+36,Tumakuru,1113,Honnavalli PS
+36,Tumakuru,1653,Huliyar PS
+36,Tumakuru,1099,Huliyurdurga PS
+36,Tumakuru,2119,Jayanagara PS
+36,Tumakuru,1644,Kallambella PS
+36,Tumakuru,1934,Kibbanhalli PS
+36,Tumakuru,1656,Kodigenahalli PS
+36,Tumakuru,2122,Kolala PS
+36,Tumakuru,1091,Kora PS
+36,Tumakuru,1643,Koratagere PS
+36,Tumakuru,1098,Kunigal PS
+36,Tumakuru,1635,Kyathasandra PS
+36,Tumakuru,1655,Madhugiri PS
+36,Tumakuru,1657,Medigeshi PS
+36,Tumakuru,1085,New Extention PS
+36,Tumakuru,1112,Nonavinakere PS
+36,Tumakuru,1645,Patanayakanahalli PS
+36,Tumakuru,1658,Pavagada PS
+36,Tumakuru,1642,Sira PS
+36,Tumakuru,1646,Tavarekere PS
+36,Tumakuru,1084,Thilak Park PS
+36,Tumakuru,1661,Thirumani PS
+36,Tumakuru,1111,Tiptur Rural PS
+36,Tumakuru,1107,Tiptur Town PS
+36,Tumakuru,2140,Tumkur CEN Crime PS
+36,Tumakuru,1089,Tumkur Rural PS
+36,Tumakuru,1080,Tumkur Town PS
+36,Tumakuru,1081,Tumkur Traffic PS
+36,Tumakuru,1102,Turuvekere PS
+36,Tumakuru,2120,Women PS
+36,Tumakuru,1660,Y.N. Hosakote PS
+37,Udupi,1628,Ajekar PS
+37,Udupi,1200,Amasebailu PS
+37,Udupi,1208,Brahmavar PS
+37,Udupi,1212,Byndoor PS
+37,Udupi,1217,Gangolli PS
+37,Udupi,1225,Hebri PS
+37,Udupi,1210,Hiriadka PS
+37,Udupi,1202,Kapu PS
+37,Udupi,1221,Karkala Rural PS
+37,Udupi,1224,Karkala Town PS
+37,Udupi,1215,Kollur PS
+37,Udupi,1211,Kota PS
+37,Udupi,1216,Kundapura PS
+37,Udupi,2170,Kundapura Rural PS
+37,Udupi,1902,Kundapura Traffic PS
+37,Udupi,1198,Malpe PS
+37,Udupi,1201,Manipal PS
+37,Udupi,1203,Padubidri PS
+37,Udupi,1219,Shankaranarayana PS
+37,Udupi,1206,Shirva PS
+37,Udupi,2156,Udupi CEN Crime PS
+37,Udupi,1197,Udupi Town PS
+37,Udupi,1199,Udupi Traffic PS
+37,Udupi,1220,Women PS
+38,Uttara Kannada,1676,Ambikanagar PS
+38,Uttara Kannada,1674,Ankola PS
+38,Uttara Kannada,1677,Banavasi PS
+38,Uttara Kannada,950,Bhatkal Rural PS
+38,Uttara Kannada,949,Bhatkal Town PS
+38,Uttara Kannada,922,Chittakula PS
+38,Uttara Kannada,932,Dandeli Rural PS
+38,Uttara Kannada,931,Dandeli Town PS
+38,Uttara Kannada,954,Gokarna PS
+38,Uttara Kannada,1675,Haliyal PS
+38,Uttara Kannada,1680,Honnavara PS
+38,Uttara Kannada,1370,Joida PS
+38,Uttara Kannada,923,Kadra PS
+38,Uttara Kannada,927,Karwar Rural PS
+38,Uttara Kannada,926,Karwar Town PS
+38,Uttara Kannada,928,Karwar Traffic PS
+38,Uttara Kannada,953,Kumta PS
+38,Uttara Kannada,924,Mallapura PS
+38,Uttara Kannada,1681,Manki PS
+38,Uttara Kannada,944,Mundgod PS
+38,Uttara Kannada,951,Murudeshwar PS
+38,Uttara Kannada,942,New Market PS
+38,Uttara Kannada,936,Ramnagar PS
+38,Uttara Kannada,1678,Siddapura PS
+38,Uttara Kannada,941,Sirsi Rural PS
+38,Uttara Kannada,940,Sirsi Town PS
+38,Uttara Kannada,2154,UK CEN Crime PS
+38,Uttara Kannada,2218,UK Women PS
+38,Uttara Kannada,1679,Yellapura PS
+39,Vijayapur,1497,Adarsh Nagar PS
+39,Vijayapur,1924,Alamatti PS
+39,Vijayapur,1511,Almel PS
+39,Vijayapur,1496,APMC PS
+39,Vijayapur,416,Babaleshwar PS
+39,Vijayapur,429,Basavan Bagewadi PS
+39,Vijayapur,415,Bijapur rural PS
+39,Vijayapur,412,Bijapur Traffic PS
+39,Vijayapur,424,Chadachan PS
+39,Vijayapur,1512,Devara Hipparagi PS
+39,Vijayapur,411,Gandhi Chowk PS
+39,Vijayapur,1495,Golgumbaz PS
+39,Vijayapur,421,Hortti PS
+39,Vijayapur,420,Indi PS
+39,Vijayapur,2216,Indi Rural PS
+39,Vijayapur,2008,Jalanagar PS
+39,Vijayapur,1513,Kalkeri PS
+39,Vijayapur,430,Kolhar PS
+39,Vijayapur,2250,Kudagi PS
+39,Vijayapur,431,Managoli PS
+39,Vijayapur,433,Muddebihal PS
+39,Vijayapur,1923,Nidagundi PS
+39,Vijayapur,1510,Sindagi PS
+39,Vijayapur,434,Talikot PS
+39,Vijayapur,417,Tikota PS
+39,Vijayapur,2225,Vijayapur CEN Crime PS
+39,Vijayapur,2239,Vijayapura Women PS
+39,Vijayapur,425,Zalaki PS
+40,Yadgir,1597,Bheemarayanagudi PS
+40,Yadgir,1595,Gogi PS
+40,Yadgir,691,Gurumitkal PS
+40,Yadgir,1615,Hunasagi PS
+40,Yadgir,1599,Kembhavi PS
+40,Yadgir,1603,Kodekal PS
+40,Yadgir,1601,Narayanapura PS
+40,Yadgir,692,Saidapur PS
+40,Yadgir,699,Shahapur PS
+40,Yadgir,1598,Shorapur PS
+40,Yadgir,1596,Wadigere PS
+40,Yadgir,2236,Yadgir CEN Crime PS
+40,Yadgir,2159,Yadgir Traffic PS
+40,Yadgir,2183,Yadgir Women PS
+40,Yadgir,1590,Yadgiri Rural PS
+40,Yadgir,1589,Yadgiri Town PS
+41,Vijayanagara,117,Arasikere PS
+41,Vijayanagara,1885,Chigateri PS
+41,Vijayanagara,361,Chittavadagi PS
+41,Vijayanagara,1502,Gudekote PS
+41,Vijayanagara,1507,Hadagali PS
+41,Vijayanagara,1505,Hagaribommanahalli PS
+41,Vijayanagara,116,Halavagilu PS
+41,Vijayanagara,1883,Hampi Tourism PS
+41,Vijayanagara,1884,Hampi Traffic PS
+41,Vijayanagara,115,Harapanahalli PS
+41,Vijayanagara,1509,Hirehadagali PS
+41,Vijayanagara,1504,Hosahalli PS
+41,Vijayanagara,352,Hospet Extention PS
+41,Vijayanagara,356,Hospet Rural PS
+41,Vijayanagara,351,Hospet Town PS
+41,Vijayanagara,355,Hospet Traffic PS
+41,Vijayanagara,1508,Ittigi PS
+41,Vijayanagara,360,Kamalapur PS
+41,Vijayanagara,1503,Kottur PS
+41,Vijayanagara,1501,Kudligi PS
+41,Vijayanagara,365,Mariyammanahalli PS
+41,Vijayanagara,353,T.B. Dam PS
+41,Vijayanagara,1506,T.B. Halli PS
